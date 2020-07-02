@@ -1,0 +1,19 @@
+functions needed for math:
+__add__
+__sub__
+__mul__
+__truediv__
+__radd__
+__rsub__
+__rmul__
+__rtruediv__
+
+functions needed for comparison:
+__eq__
+__ne__
+
+other needed functions:
+__repr__
+__str__
+__float__ ?
+__int__ ?

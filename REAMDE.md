@@ -1,0 +1,1 @@
+This is a basic implementation of vector objects in Python 3. At this time, most mathematical functions are not supported, but many more will be added further down the road.
